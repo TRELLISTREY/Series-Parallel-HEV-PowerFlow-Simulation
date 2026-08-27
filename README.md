@@ -65,7 +65,9 @@ The simulation was configured for a 15-second operating cycle to observe transit
 
 ## 🎥 Project Demonstration
 
-A screen-recorded demonstration of the simulation is available on my LinkedIn profile.
+A screen-recorded demonstration of the simulation is available on LinkedIn.
+
+🔗 [View the project demonstration on LinkedIn](https://lnkd.in/p/d89p9C_J)
 
 The video demonstrates the model running in Simulink and shows the changes in power flow and operating-mode indicators during the simulation.
 
